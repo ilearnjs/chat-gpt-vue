@@ -1,4 +1,4 @@
-# Chat gpt api + Vue
+# OpenAI api + Vue
 
 A simple project to play with OpenAI api and Vue components.
 
