@@ -2,7 +2,7 @@
 
 A simple project to play with OpenAI api and Vue components.
 
-To make it work with Vue 3 components update the [following line](https://github.com/ilearnjs/openai-vue/blob/master/prompt/chatGpt/ChatGptController.js#L4)
+To make it work with Vue 3 components update the [following line](https://github.com/ilearnjs/openai-vue/blob/master/prompt/chatGpt/ChatGptController.js#L4).
 
 ## Demo
 
