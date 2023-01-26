@@ -1,0 +1,14 @@
+{
+  "name": "chat-gpt-vue-prompt",
+  "version": "1.0.0",
+  "main": "prompt.js",
+  "license": "MIT",
+  "author": "ilearnjs",
+  "scripts": {
+    "start": "node prompt.js"
+  },
+  "dependencies": {
+    "openai": "^3.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
