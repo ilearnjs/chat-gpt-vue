@@ -1,5 +1,5 @@
 {
-  "name": "chat-gpt-vue-prompt",
+  "name": "openai-vue-prompt",
   "version": "1.0.0",
   "main": "prompt.js",
   "license": "MIT",
